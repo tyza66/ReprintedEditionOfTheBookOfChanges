@@ -7,4 +7,7 @@
 【2021.4.3】1.0版：安卓原生开发，支持新版安卓系统，还原原软件各个功能。  
 【2021.4.3】1.0修复版：修好了按爻坤字bug，调整字体大小。（独饮心上秋反馈）  
 Android Studio项目  
+
+成品：https://github.com/tyza66/WorkCollection/tree/main/%E6%98%93%E7%BB%8F%E5%AE%9D%E5%85%B8%E9%87%8D%E5%88%B6%E7%89%88%5BAndroid%5D%5B%E9%87%8D%E7%BD%AE%E8%BD%AF%E4%BB%B6%5D
+
 By:tyza66(洮羱芝闇)
